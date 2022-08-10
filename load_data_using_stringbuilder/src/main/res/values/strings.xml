@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Load_Data_Using_StringBuilder</string>
+
+    <string name="placeholer_api">https://www.androiddada.com/Clostitch/Code/Clo/Users</string>
+</resources>

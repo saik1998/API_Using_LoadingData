@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "API_Using_Data_Loading"
+include ':app'
+include ':load_api_data_listview'
+include ':load_data_using_stringbuilder'
+include ':api_usinglag_lon'
+include ':login_signup_api_task'
+include ':app:pratice'
+include ':api_using_citynm_state_nm'
+include ':countrycode_task'

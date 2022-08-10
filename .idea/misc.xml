@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/api_using_citynm_state_nm/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/api_usinglag_lon/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/app/pratice/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/countrycode_task/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/load_api_data_listview/src/main/res/drawable/color.xml" value="0.15" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/load_api_data_listview/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/load_api_data_listview/src/main/res/layout/custom.xml" value="0.16" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/load_api_data_listview/src/main/res/layout/custom_list.xml" value="0.22" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/load_data_using_stringbuilder/src/main/res/drawable/color.xml" value="0.15" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/load_data_using_stringbuilder/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/load_data_using_stringbuilder/src/main/res/layout/custom_recyler.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/login_signup_api_task/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/UllingalaSaiKrishna/AndroidStudioProjects/API_Using_Data_Loading/login_signup_api_task/src/main/res/layout/activity_signup2.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

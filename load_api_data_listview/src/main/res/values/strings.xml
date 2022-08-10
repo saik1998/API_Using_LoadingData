@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Load_Api_Data_LIstView</string>
+
+    <string name="placeholer_api">https://jsonplaceholder.typicode.com/posts</string>
+</resources>
